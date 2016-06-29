@@ -15,6 +15,7 @@ A tab-delimited text file with 9 columns (the first 7 for the taxonomy from spec
 To randomly get equal numbers of reads/entries/"individuals" for each sample/replicate use 
 
 	shuf original_input_file.txt > shuffled_input_file.txt
+(for Mac OS X you'll need to install coreutils via "brew install coreutils" or "sudo port install coreutils" and run gshuf instead)
 
 and then 
 
