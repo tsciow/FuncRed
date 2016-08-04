@@ -2,7 +2,7 @@
 Quantify expressed redundancy of multiple functions between microbial communities
 
 ##Input file format
-A tab-delimited text file with 9 columns (the first 7 for the taxonomy from species up to phylum, Function (KEGG KO), Sample/Replicate-ID, Sample-group), for example:
+A tab-delimited text file with 10 columns (the first 7 for the taxonomy from species up to phylum, Function (KEGG KO), Sample/Replicate-ID, Sample-group), for example:
 
 	Marinomonas ushuaiensis	Marinomonas	Oceanospirillaceae	Oceanospirillales	Gammaproteobacteria	Proteobacteria	Bacteria	K02954	Bb3 	 Bb
 	Tenacibaculum mesophilum	Tenacibaculum	Flavobacteriaceae	Flavobacteriales	Flavobacteriia	Bacteroidetes	Bacteria	K04043	Fb2 	 Fb
